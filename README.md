@@ -1,2 +1,8 @@
 # SimpleIndexer
-Simple index and search implementation written in C#
+
+## Prerequisites
+
+- .NET 7
+
+## Running locally
+Run with `dotnet run -c release`
